@@ -1,0 +1,14 @@
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\bin\Debug\ThetaTest.exe.config
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\bin\Debug\ThetaTest.exe
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\bin\Debug\ThetaTest.pdb
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\obj\Debug\ThetaTest.csprojAssemblyReference.cache
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\obj\Debug\ThetaTest.csproj.CoreCompileInputs.cache
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\obj\Debug\ThetaTest.exe
+C:\Users\malcoljosh\source\repos\Theta\ThetaTest\ThetaTest\obj\Debug\ThetaTest.pdb
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\obj\Debug\ThetaTest.exe
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\obj\Debug\ThetaTest.pdb
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\bin\Debug\ThetaTest.exe.config
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\bin\Debug\ThetaTest.exe
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\bin\Debug\ThetaTest.pdb
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\obj\Debug\ThetaTest.csprojAssemblyReference.cache
+C:\Users\Josh\Downloads\ThetaTest-main\ThetaTest\ThetaTest\obj\Debug\ThetaTest.csproj.CoreCompileInputs.cache
